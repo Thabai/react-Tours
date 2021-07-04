@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-Tours/static/css/main.f69204ff.chunk.css",
-    "main.js": "/react-Tours/static/js/main.12acb05d.chunk.js",
-    "main.js.map": "/react-Tours/static/js/main.12acb05d.chunk.js.map",
-    "runtime-main.js": "/react-Tours/static/js/runtime-main.7945d154.js",
-    "runtime-main.js.map": "/react-Tours/static/js/runtime-main.7945d154.js.map",
-    "static/js/2.4daa001b.chunk.js": "/react-Tours/static/js/2.4daa001b.chunk.js",
-    "static/js/2.4daa001b.chunk.js.map": "/react-Tours/static/js/2.4daa001b.chunk.js.map",
-    "static/js/3.dbd099c9.chunk.js": "/react-Tours/static/js/3.dbd099c9.chunk.js",
-    "static/js/3.dbd099c9.chunk.js.map": "/react-Tours/static/js/3.dbd099c9.chunk.js.map",
+    "main.js": "/react-Tours/static/js/main.b77cba64.chunk.js",
+    "main.js.map": "/react-Tours/static/js/main.b77cba64.chunk.js.map",
+    "runtime-main.js": "/react-Tours/static/js/runtime-main.8fde3080.js",
+    "runtime-main.js.map": "/react-Tours/static/js/runtime-main.8fde3080.js.map",
+    "static/js/2.70d9f47a.chunk.js": "/react-Tours/static/js/2.70d9f47a.chunk.js",
+    "static/js/2.70d9f47a.chunk.js.map": "/react-Tours/static/js/2.70d9f47a.chunk.js.map",
+    "static/js/3.2208e674.chunk.js": "/react-Tours/static/js/3.2208e674.chunk.js",
+    "static/js/3.2208e674.chunk.js.map": "/react-Tours/static/js/3.2208e674.chunk.js.map",
     "index.html": "/react-Tours/index.html",
     "static/css/main.f69204ff.chunk.css.map": "/react-Tours/static/css/main.f69204ff.chunk.css.map",
-    "static/js/2.4daa001b.chunk.js.LICENSE.txt": "/react-Tours/static/js/2.4daa001b.chunk.js.LICENSE.txt",
+    "static/js/2.70d9f47a.chunk.js.LICENSE.txt": "/react-Tours/static/js/2.70d9f47a.chunk.js.LICENSE.txt",
     "static/media/devon.2121f5e1.png": "/react-Tours/static/media/devon.2121f5e1.png",
     "static/media/isle.a0249849.png": "/react-Tours/static/media/isle.a0249849.png",
     "static/media/manc.22f559b7.png": "/react-Tours/static/media/manc.22f559b7.png",
@@ -19,9 +19,9 @@
     "static/media/wales.4594a302.png": "/react-Tours/static/media/wales.4594a302.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7945d154.js",
-    "static/js/2.4daa001b.chunk.js",
+    "static/js/runtime-main.8fde3080.js",
+    "static/js/2.70d9f47a.chunk.js",
     "static/css/main.f69204ff.chunk.css",
-    "static/js/main.12acb05d.chunk.js"
+    "static/js/main.b77cba64.chunk.js"
   ]
 }
