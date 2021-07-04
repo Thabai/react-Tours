@@ -15,7 +15,7 @@ function App() {
 
   if (tours.length === 0) {
     return (
-      <main>
+      <main className='container'>
         <div className='title'>
           <h2>No tours left</h2>
           <div className="underline"></div>
@@ -27,7 +27,7 @@ function App() {
     )
   }
   return (
-    <main>
+    <main className='container'>
       <Tours tours={tours} removeTour={removeTour} />
     </main>
   )

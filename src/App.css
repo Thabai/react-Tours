@@ -84,11 +84,10 @@ h2 {
 }
 
 .btn {
-  width: 30%;
   display: block;
   margin: 20px auto;
   text-align: center;
-  padding: 3px;
+  padding: 5px;
   background-color: rgb(235, 238, 240);
   border: 0.5px dotted #ddd;
   border-radius: 3px;
